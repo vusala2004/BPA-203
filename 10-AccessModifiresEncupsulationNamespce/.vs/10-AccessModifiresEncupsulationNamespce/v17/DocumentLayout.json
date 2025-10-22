@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\10-AccessModifiresEncupsulationNamespce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E842950-5D00-4E40-96AD-0E21C2AABEB1}|10-AccessModifiresEncupsulationNamespce.csproj|c:\\users\\acer\\onedrive\\desktop\\10-accessmodifiresencupsulationnamespce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E842950-5D00-4E40-96AD-0E21C2AABEB1}|10-AccessModifiresEncupsulationNamespce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E842950-5D00-4E40-96AD-0E21C2AABEB1}|10-AccessModifiresEncupsulationNamespce.csproj|c:\\users\\acer\\onedrive\\desktop\\10-accessmodifiresencupsulationnamespce\\get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E842950-5D00-4E40-96AD-0E21C2AABEB1}|10-AccessModifiresEncupsulationNamespce.csproj|solutionrelative:get.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GET.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\10-AccessModifiresEncupsulationNamespce\\GET.cs",
+              "RelativeDocumentMoniker": "GET.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\10-AccessModifiresEncupsulationNamespce\\GET.cs",
+              "RelativeToolTip": "GET.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:11:58.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\10-AccessModifiresEncupsulationNamespce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\10-AccessModifiresEncupsulationNamespce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:10:18.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

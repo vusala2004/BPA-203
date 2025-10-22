@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.exe
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.deps.json
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.dll
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\bin\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.pdb
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.dll
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\obj\Debug\net8.0\refint\10-AccessModifiresEncupsulationNamespce.dll
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.pdb
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\obj\Debug\net8.0\10-AccessModifiresEncupsulationNamespce.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\10-AccessModifiresEncupsulationNamespce\obj\Debug\net8.0\ref\10-AccessModifiresEncupsulationNamespce.dll
