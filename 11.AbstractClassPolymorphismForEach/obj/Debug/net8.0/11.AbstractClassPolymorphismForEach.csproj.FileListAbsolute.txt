@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\obj\Debug\net8.0\11.AbstractClassPolymorphismForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\obj\Debug\net8.0\11.AbstractClassPolymorphismForEach.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\obj\Debug\net8.0\11.AbstractClassPolymorphismForEach.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\obj\Debug\net8.0\11.AbstractClassPolymorphismForEach.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\bin\Debug\net8.0\11.AbstractClassPolymorphismForEach.exe
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\bin\Debug\net8.0\11.AbstractClassPolymorphismForEach.deps.json
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\bin\Debug\net8.0\11.AbstractClassPolymorphismForEach.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\bin\Debug\net8.0\11.AbstractClassPolymorphismForEach.dll
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\bin\Debug\net8.0\11.AbstractClassPolymorphismForEach.pdb
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\obj\Debug\net8.0\11.AbstractClassPolymorphismForEach.dll
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\obj\Debug\net8.0\refint\11.AbstractClassPolymorphismForEach.dll
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\obj\Debug\net8.0\11.AbstractClassPolymorphismForEach.pdb
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\obj\Debug\net8.0\11.AbstractClassPolymorphismForEach.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\11.AbstractClassPolymorphismForEach\obj\Debug\net8.0\ref\11.AbstractClassPolymorphismForEach.dll
