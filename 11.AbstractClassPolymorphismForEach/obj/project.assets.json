@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\11.AbstractClassPolymorphismForEach\\11.AbstractClassPolymorphismForEach.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\11.AbstractClassPolymorphismForEach\\11.AbstractClassPolymorphismForEach.csproj",
       "projectName": "11.AbstractClassPolymorphismForEach",
-      "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\11.AbstractClassPolymorphismForEach\\11.AbstractClassPolymorphismForEach.csproj",
+      "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\11.AbstractClassPolymorphismForEach\\11.AbstractClassPolymorphismForEach.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\11.AbstractClassPolymorphismForEach\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\11.AbstractClassPolymorphismForEach\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
