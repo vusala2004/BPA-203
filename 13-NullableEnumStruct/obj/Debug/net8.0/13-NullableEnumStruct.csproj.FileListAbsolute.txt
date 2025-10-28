@@ -1,0 +1,4 @@
+C:\Users\Acer\OneDrive\Desktop\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\13-NullableEnumStruct\obj\Debug\net8.0\13-NullableEnumStruct.csproj.CoreCompileInputs.cache

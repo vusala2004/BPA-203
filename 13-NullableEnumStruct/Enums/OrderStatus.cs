@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using _13_NullableEnumStruct.Enums;
+
+namespace CafeOrderSystem
+
+{
+    enum OrderStatus
+    {
+        New=0,
+        Preparing=1,
+        Ready=2,
+        Delivered=3
+    }
+}
