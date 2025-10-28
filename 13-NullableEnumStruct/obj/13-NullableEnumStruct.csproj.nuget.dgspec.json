@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\13-NullableEnumStruct.csproj": {}
+    "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\13-NullableEnumStruct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\13-NullableEnumStruct.csproj": {
+    "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\13-NullableEnumStruct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\13-NullableEnumStruct.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\13-NullableEnumStruct.csproj",
         "projectName": "13-NullableEnumStruct",
-        "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\13-NullableEnumStruct.csproj",
+        "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\13-NullableEnumStruct.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

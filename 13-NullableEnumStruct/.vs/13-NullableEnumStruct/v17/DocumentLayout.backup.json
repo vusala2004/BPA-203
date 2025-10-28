@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\13-nullableenumstruct\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\bpa-203\\13-nullableenumstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\bpa-203\\13-nullableenumstruct\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|solutionrelative:drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\13-nullableenumstruct\\enums\\drinktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\bpa-203\\13-nullableenumstruct\\enums\\drinktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|solutionrelative:enums\\drinktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\13-nullableenumstruct\\enums\\drinksize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|solutionrelative:enums\\drinksize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\13-nullableenumstruct\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\bpa-203\\13-nullableenumstruct\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|solutionrelative:enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\13-nullableenumstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|c:\\users\\acer\\onedrive\\desktop\\bpa-203\\13-nullableenumstruct\\enums\\drinksize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27ED19F-B589-4AEC-84BC-40D53C1773C6}|13-NullableEnumStruct.csproj|solutionrelative:enums\\drinksize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +30,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrinkOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\DrinkOrder.cs",
+              "RelativeDocumentMoniker": "DrinkOrder.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\DrinkOrder.cs",
+              "RelativeToolTip": "DrinkOrder.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T00:24:19.816Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\Enums\\OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\Enums\\OrderStatus.cs",
               "RelativeToolTip": "Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:27:55.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DrinkSize.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\Enums\\DrinkSize.cs",
-              "RelativeDocumentMoniker": "Enums\\DrinkSize.cs",
-              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\Enums\\DrinkSize.cs",
-              "RelativeToolTip": "Enums\\DrinkSize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:27:26.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DrinkType.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\Enums\\DrinkType.cs",
-              "RelativeDocumentMoniker": "Enums\\DrinkType.cs",
-              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\Enums\\DrinkType.cs",
-              "RelativeToolTip": "Enums\\DrinkType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:26:52.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DrinkOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\DrinkOrder.cs",
-              "RelativeDocumentMoniker": "DrinkOrder.cs",
-              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\DrinkOrder.cs*",
-              "RelativeToolTip": "DrinkOrder.cs*",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAiwGgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:24:19.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T00:27:55.7Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DrinkSize.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\Enums\\DrinkSize.cs",
+              "RelativeDocumentMoniker": "Enums\\DrinkSize.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\Enums\\DrinkSize.cs",
+              "RelativeToolTip": "Enums\\DrinkSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T00:27:26.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrinkType.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\Enums\\DrinkType.cs",
+              "RelativeDocumentMoniker": "Enums\\DrinkType.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\Enums\\DrinkType.cs",
+              "RelativeToolTip": "Enums\\DrinkType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T00:26:52.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\13-NullableEnumStruct\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\Desktop\\BPA-203\\13-NullableEnumStruct\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T00:19:41.941Z",
               "EditorCaption": ""

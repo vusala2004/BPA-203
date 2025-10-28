@@ -27,13 +27,7 @@ namespace CafeOrderSystem
             Status=OrderStatus.New;
             
         }
-        public enum OrderStatus
-        {
-            New,
-            Processing,
-            Completed
-
-        }
+        
         public void CalculatePrice()
         {
             
