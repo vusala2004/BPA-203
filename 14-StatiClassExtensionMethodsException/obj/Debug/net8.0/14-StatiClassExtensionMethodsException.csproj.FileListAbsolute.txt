@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\obj\Debug\net8.0\14-StatiClassExtensionMethodsException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\obj\Debug\net8.0\14-StatiClassExtensionMethodsException.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\obj\Debug\net8.0\14-StatiClassExtensionMethodsException.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\obj\Debug\net8.0\14-StatiClassExtensionMethodsException.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\bin\Debug\net8.0\14-StatiClassExtensionMethodsException.exe
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\bin\Debug\net8.0\14-StatiClassExtensionMethodsException.deps.json
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\bin\Debug\net8.0\14-StatiClassExtensionMethodsException.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\bin\Debug\net8.0\14-StatiClassExtensionMethodsException.dll
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\bin\Debug\net8.0\14-StatiClassExtensionMethodsException.pdb
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\obj\Debug\net8.0\14-StatiClassExtensionMethodsException.dll
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\obj\Debug\net8.0\refint\14-StatiClassExtensionMethodsException.dll
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\obj\Debug\net8.0\14-StatiClassExtensionMethodsException.pdb
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\obj\Debug\net8.0\14-StatiClassExtensionMethodsException.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\14-StatiClassExtensionMethodsException\obj\Debug\net8.0\ref\14-StatiClassExtensionMethodsException.dll
