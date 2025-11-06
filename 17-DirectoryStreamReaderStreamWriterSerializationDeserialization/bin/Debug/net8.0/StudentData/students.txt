@@ -1,0 +1,5 @@
+id:1,:Ali,SoyadMəmmədov,yas:20,qiymet:85,5
+id:2,:Leyla,SoyadHəsənova,yas:19,qiymet:92
+id:3,:Vüqar,SoyadƏliyev,yas:21,qiymet:78,5
+id:4,:Nigar,SoyadƏhmədova,yas:20,qiymet:88
+id:5,:Rəşad,SoyadQuliyev,yas:22,qiymet:95,5
